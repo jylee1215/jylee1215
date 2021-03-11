@@ -3,7 +3,7 @@
 
 🎓 Master degree in Neuroscience at Seoul National University   
 📝 Clinical researcher at SMG-SNU boramae medical center   
-❤️ Interested in healthcare, medical machine learning, neuroimaging   
+❤️ Interested in healthcare, precision Medicine, medical machine learning, neuroimaging   
 
 
 ### Mini project list  
