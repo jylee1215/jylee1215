@@ -7,7 +7,7 @@
 
 
 ### Mini project list  
--   AI based Stress Management Healthcare Program  
+- [AI based Stress Management Healthcare Program](https://github.com/jylee1215/ASHP_AI-based-Stress-Management-Healthcare-Program)
 : 한국지능정보사회진흥원 인공지능 학습용 데이터 활용 아이디어 공모전 입상🎉
 
 - [K-means 클러스터 분석을 통한 서울시 배달업체 위치 선정 제안 빅데이터 프로젝트](https://github.com/jylee1215/BIgdata_Seoul_delivery)
