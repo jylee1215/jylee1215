@@ -1,4 +1,4 @@
-### - Hi there, This is Jiyoon 👋
+### - Hi there, this is Jiyoon 👋
 
 
 > 🎓 Master degree in Neuroscience at Seoul National University   
