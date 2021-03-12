@@ -1,12 +1,12 @@
-### Hi there, This is Jiyoon 👋
+### - Hi there, This is Jiyoon 👋
 
 
-🎓 Master degree in Neuroscience at Seoul National University   
-📝 Clinical researcher at SMG-SNU boramae medical center   
-❤️ Interested in healthcare, precision medicine, medical machine learning, neuroimaging   
+> 🎓 Master degree in Neuroscience at Seoul National University   
+> 📝 Clinical researcher at SMG-SNU boramae medical center   
+> ❤️ Interested in healthcare, precision medicine, medical machine learning, neuroimaging   
 
 
-### Mini project list  
+### - Mini project list  
 - [AI based Stress Management Healthcare Program](https://github.com/jylee1215/ASHP_AI-based-Stress-Management-Healthcare-Program)  
 : 한국지능정보사회진흥원 인공지능 학습용 데이터 활용 아이디어 공모전 입상🎉
 
