@@ -2,7 +2,7 @@
 
 
 > 🎓 Master degree in Neuroscience at Seoul National University   
-> 📝 Clinical researcher at Samsung Medical Center
+> 📝 Clinical researcher at Samsung Medical Center  
 > ❤️ Interested in healthcare, precision medicine, medical machine learning, neuroimaging   
 
 
